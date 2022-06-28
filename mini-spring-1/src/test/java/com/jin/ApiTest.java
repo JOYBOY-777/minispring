@@ -3,7 +3,7 @@ package com.jin;
 import com.jin.bean.UserService;
 import org.junit.jupiter.api.Test;
 
-
+//测试类
 public class ApiTest {
     @Test
     public void test_BeanFactory(){
