@@ -8,5 +8,5 @@ import com.jin.BeansException;
 public interface BeanFactory {
     Object getBean(String name) throws BeansException;
     //新增了一个重载的抽象方法，次方法提供传递入参给构造函数实例化了
-    Object getBean(String name,Object... ages);
+    Object getBean(String name,Object... ages) throws BeansException;
 }
