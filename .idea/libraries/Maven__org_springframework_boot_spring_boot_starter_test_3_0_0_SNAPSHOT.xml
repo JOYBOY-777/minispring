@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-starter-test:3.0.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-test/3.0.0-SNAPSHOT/spring-boot-starter-test-3.0.0-20220708.191027-613.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-test/3.0.0-SNAPSHOT/spring-boot-starter-test-3.0.0-20220711.204400-615.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-test/3.0.0-SNAPSHOT/spring-boot-starter-test-3.0.0-20220708.191027-613-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-test/3.0.0-SNAPSHOT/spring-boot-starter-test-3.0.0-20220711.204400-615-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-test/3.0.0-SNAPSHOT/spring-boot-starter-test-3.0.0-20220708.191027-613-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-test/3.0.0-SNAPSHOT/spring-boot-starter-test-3.0.0-20220711.204400-615-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

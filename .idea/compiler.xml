@@ -7,45 +7,49 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mini-spring-1" />
-        <module name="mini-spring-10" />
-        <module name="mini-spring-9" />
-        <module name="mini-spring-8" />
-        <module name="mini-spring-7" />
-        <module name="mini-spring-6" />
-        <module name="mini-spring-5" />
-        <module name="mini-spring-4" />
-        <module name="mini-spring-3" />
-        <module name="mini-spring-2" />
+        <module name="mini-spring-s3" />
+        <module name="mini-spring-s1" />
+        <module name="mini-spring-s2" />
+        <module name="mini-spring-s10" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mini-spring" target="17" />
-      <module name="mini-spring-1" target="17" />
+      <module name="mini-spring-01" target="17" />
+      <module name="mini-spring-02" target="17" />
+      <module name="mini-spring-03" target="17" />
+      <module name="mini-spring-04" target="17" />
+      <module name="mini-spring-05" target="17" />
+      <module name="mini-spring-06" target="17" />
+      <module name="mini-spring-07" target="17" />
+      <module name="mini-spring-08" target="17" />
+      <module name="mini-spring-09" target="17" />
       <module name="mini-spring-10" target="17" />
-      <module name="mini-spring-2" target="17" />
-      <module name="mini-spring-3" target="17" />
-      <module name="mini-spring-4" target="17" />
-      <module name="mini-spring-5" target="17" />
-      <module name="mini-spring-6" target="17" />
-      <module name="mini-spring-7" target="17" />
-      <module name="mini-spring-8" target="17" />
-      <module name="mini-spring-9" target="17" />
+      <module name="mini-spring-s" target="17" />
+      <module name="mini-spring-s1" target="17" />
+      <module name="mini-spring-s10" target="17" />
+      <module name="mini-spring-s2" target="17" />
+      <module name="mini-spring-s3" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="mini-spring" options="-parameters" />
-      <module name="mini-spring-1" options="-parameters" />
+      <module name="mini-spring-01" options="-parameters" />
+      <module name="mini-spring-02" options="-parameters" />
+      <module name="mini-spring-03" options="-parameters" />
+      <module name="mini-spring-04" options="-parameters" />
+      <module name="mini-spring-05" options="-parameters" />
+      <module name="mini-spring-06" options="-parameters" />
+      <module name="mini-spring-07" options="-parameters" />
+      <module name="mini-spring-08" options="-parameters" />
+      <module name="mini-spring-09" options="-parameters" />
       <module name="mini-spring-10" options="-parameters" />
-      <module name="mini-spring-2" options="-parameters" />
-      <module name="mini-spring-3" options="-parameters" />
-      <module name="mini-spring-4" options="-parameters" />
-      <module name="mini-spring-5" options="-parameters" />
-      <module name="mini-spring-6" options="-parameters" />
-      <module name="mini-spring-7" options="-parameters" />
-      <module name="mini-spring-8" options="-parameters" />
-      <module name="mini-spring-9" options="-parameters" />
+      <module name="mini-spring-s" options="-parameters" />
+      <module name="mini-spring-s1" options="-parameters" />
+      <module name="mini-spring-s10" options="-parameters" />
+      <module name="mini-spring-s2" options="-parameters" />
+      <module name="mini-spring-s3" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-beans:6.0.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/spring-beans/6.0.0-SNAPSHOT/spring-beans-6.0.0-20220710.183850-587.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/spring-beans/6.0.0-SNAPSHOT/spring-beans-6.0.0-20220711.205917-595.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/spring-beans/6.0.0-SNAPSHOT/spring-beans-6.0.0-20220710.183850-587-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/spring-beans/6.0.0-SNAPSHOT/spring-beans-6.0.0-20220711.205917-595-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/spring-beans/6.0.0-SNAPSHOT/spring-beans-6.0.0-20220710.183850-587-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.6-bin/apache-maven-3.8.6/repository/org/springframework/spring-beans/6.0.0-SNAPSHOT/spring-beans-6.0.0-20220711.205917-595-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

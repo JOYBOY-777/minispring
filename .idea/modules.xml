@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-1/mini-spring-1.iml" filepath="$PROJECT_DIR$/mini-spring-1/mini-spring-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-10/mini-spring-10.iml" filepath="$PROJECT_DIR$/mini-spring-10/mini-spring-10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-2/mini-spring-2.iml" filepath="$PROJECT_DIR$/mini-spring-2/mini-spring-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-3/mini-spring-3.iml" filepath="$PROJECT_DIR$/mini-spring-3/mini-spring-3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-4/mini-spring-4.iml" filepath="$PROJECT_DIR$/mini-spring-4/mini-spring-4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-5/mini-spring-5.iml" filepath="$PROJECT_DIR$/mini-spring-5/mini-spring-5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-6/mini-spring-6.iml" filepath="$PROJECT_DIR$/mini-spring-6/mini-spring-6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-7/mini-spring-7.iml" filepath="$PROJECT_DIR$/mini-spring-7/mini-spring-7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-8/mini-spring-8.iml" filepath="$PROJECT_DIR$/mini-spring-8/mini-spring-8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mini-spring-9/mini-spring-9.iml" filepath="$PROJECT_DIR$/mini-spring-9/mini-spring-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s1/mini-spring-s1.iml" filepath="$PROJECT_DIR$/mini-spring-s1/mini-spring-s1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s10/mini-spring-s10.iml" filepath="$PROJECT_DIR$/mini-spring-s10/mini-spring-s10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s2/mini-spring-s2.iml" filepath="$PROJECT_DIR$/mini-spring-s2/mini-spring-s2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s3/mini-spring-s3.iml" filepath="$PROJECT_DIR$/mini-spring-s3/mini-spring-s3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/minispring.iml" filepath="$PROJECT_DIR$/.idea/minispring.iml" />
     </modules>
   </component>
