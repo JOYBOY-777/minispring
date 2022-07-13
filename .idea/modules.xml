@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/mini-spring-s10/mini-spring-s10.iml" filepath="$PROJECT_DIR$/mini-spring-s10/mini-spring-s10.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-spring-s2/mini-spring-s2.iml" filepath="$PROJECT_DIR$/mini-spring-s2/mini-spring-s2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-spring-s3/mini-spring-s3.iml" filepath="$PROJECT_DIR$/mini-spring-s3/mini-spring-s3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s4/mini-spring-s4.iml" filepath="$PROJECT_DIR$/mini-spring-s4/mini-spring-s4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s5/mini-spring-s5.iml" filepath="$PROJECT_DIR$/mini-spring-s5/mini-spring-s5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-spring-s6/mini-spring-s6.iml" filepath="$PROJECT_DIR$/mini-spring-s6/mini-spring-s6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/minispring.iml" filepath="$PROJECT_DIR$/.idea/minispring.iml" />
     </modules>
   </component>

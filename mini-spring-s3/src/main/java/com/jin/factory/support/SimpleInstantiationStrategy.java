@@ -6,7 +6,7 @@ import com.jin.factory.config.BeanDefinition;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-//提供jdk中的动态代理的具体实现方法
+//提供jdk中的反射方式的具体实现方法
 public class SimpleInstantiationStrategy implements InstantiationStrategy {
     @Override
     public Object instantiate(BeanDefinition beanDefinition, String beanName, Constructor ctor, Object[] args) throws BeansException {

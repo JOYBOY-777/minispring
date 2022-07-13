@@ -8,8 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mini-spring-s3" />
+        <module name="mini-spring-s4" />
         <module name="mini-spring-s1" />
         <module name="mini-spring-s2" />
+        <module name="mini-spring-s5" />
+        <module name="mini-spring-s6" />
         <module name="mini-spring-s10" />
       </profile>
     </annotationProcessing>
@@ -30,6 +33,9 @@
       <module name="mini-spring-s10" target="17" />
       <module name="mini-spring-s2" target="17" />
       <module name="mini-spring-s3" target="17" />
+      <module name="mini-spring-s4" target="17" />
+      <module name="mini-spring-s5" target="17" />
+      <module name="mini-spring-s6" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -50,6 +56,9 @@
       <module name="mini-spring-s10" options="-parameters" />
       <module name="mini-spring-s2" options="-parameters" />
       <module name="mini-spring-s3" options="-parameters" />
+      <module name="mini-spring-s4" options="-parameters" />
+      <module name="mini-spring-s5" options="-parameters" />
+      <module name="mini-spring-s6" options="-parameters" />
     </option>
   </component>
 </project>
